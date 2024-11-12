@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Online Course Catalog</title>
+    <title>WIT Solapur</title>
 </head>
 <body>
-    <h1>Welcome to the Online Course Catalog</h1>
+    <h1>Welcome to the Wit Solapur</h1>
     <p>Browse available courses and learn more about them.</p>
 
     <nav>
